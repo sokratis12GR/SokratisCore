@@ -1,4 +1,4 @@
-**ArmorPlus Version**:
+**SokratisCore Version**:
 
 **MinecraftForge Version**:
 
