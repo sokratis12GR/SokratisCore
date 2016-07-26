@@ -1,0 +1,6 @@
+#en_US.lang File
+
+#CONSOLE LOG -- As part of console output, these entries shall not be translated. --
+info.sokratiscore.console.load.preInit=Begin Pre-initialization
+info.sokratiscore.console.load.init=Begin Initialization
+info.sokratiscore.console.load.postInit=Begin Post-initialization
