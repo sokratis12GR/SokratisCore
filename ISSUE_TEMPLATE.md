@@ -3,8 +3,10 @@
 **MinecraftForge Version**:
 
 **Client or Server?**:
+
 - [ ] Client
 - [ ] Server
+- [ ] ArmorPlus
 
 **Crash Report (via. [Pastebin](http://pastebin.com/))**:
 
